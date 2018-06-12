@@ -28,6 +28,10 @@ There is a clock that ticks once per second. With each tick of the clock, the pr
 
 Each animal starts at position 1 (i.e., the “starting gate”). If an animal slips left before square 1, the animal is moved back to square 1.
 
+Here is a **video** of the program execution:
+
+[![](https://img.youtube.com/vi/OtuA6vl1jFU/0.jpg)](https://www.youtube.com/watch?v=OtuA6vl1jFU "Click to play on YouTube.com")
+
 ### Rules and Instructions
 
 ![rules](https://github.com/PrateekAdhikaree/TheEpicRace/blob/master/screens/simulation_rules.jpg "Simulation Rules")
@@ -65,9 +69,5 @@ If the tortoise wins, print __TORTOISE WINS!!! YAY!!!__ If the hare wins, print 
 ![screen1](https://github.com/PrateekAdhikaree/TheEpicRace/blob/master/screens/screen1.jpg "Screenshot 1")
 
 ![screen2](https://github.com/PrateekAdhikaree/TheEpicRace/blob/master/screens/screen2.jpg "Screenshot 2")
-
-## Video link:
-
-[![](https://img.youtube.com/vi/OtuA6vl1jFU/0.jpg)](https://www.youtube.com/watch?v=OtuA6vl1jFU "Click to play on YouTube.com")
 
 ## Thanks!
