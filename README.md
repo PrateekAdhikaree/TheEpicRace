@@ -60,10 +60,14 @@ If the tortoise wins, print __TORTOISE WINS!!! YAY!!!__ If the hare wins, print 
   * tortoise wins
   * hare wins
 
-## Screenshots and Video link:
+## Screenshots:
 
 ![screen1](https://github.com/PrateekAdhikaree/TheEpicRace/blob/master/screens/screen1.jpg "Screenshot 1")
 
 ![screen2](https://github.com/PrateekAdhikaree/TheEpicRace/blob/master/screens/screen2.jpg "Screenshot 2")
 
+## Video link:
+
 [![](https://img.youtube.com/vi/OtuA6vl1jFU/0.jpg)](https://www.youtube.com/watch?v=OtuA6vl1jFU "Click to play on YouTube.com")
+
+## Thanks!
